@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Inventario {
+public class Inventario { 
     public ArrayList<Producto> listaProductos;
 
     public Inventario() {
