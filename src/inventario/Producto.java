@@ -22,8 +22,6 @@ public class Producto {
     public void mostrarInformacion() {
         System.out.println("Producto: " + nombre + " | Precio: " + precio + " | Stock: " + stock);
     }
-
-
     // Getters y Setters
     public String getNombre() {
         return nombre;
